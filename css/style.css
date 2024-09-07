@@ -21,7 +21,7 @@ header{
     overflow: hidden;
     margin: 0 auto;
     width: 90%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .logo{
     float: left;
@@ -76,7 +76,7 @@ header{
 .container2{
     margin:0 auto;
     width: 80%;
-    border: solid 1px red;
+    /* border: solid 1px red; */
 
 }
 .g_content{}
